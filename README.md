@@ -30,7 +30,7 @@ Desenvolva uma aplicação web utilizando o framework front-end react e esta dev
 > - Sua aplicação web DEVE se comunicar com sua API;
 > - Você pode utilizar banco de dados relacional, preferencialmente PostgreSQL.
 ## Diferenciais
-Será considerado como diferenciais o uso das seguintes tecnologias:
+Será considerado como diferenciais a utilização ou o conhecimento nas seguintes tecnologias:
 - Express JS
 - Sequelize
 - React Native
