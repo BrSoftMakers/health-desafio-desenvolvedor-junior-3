@@ -28,7 +28,7 @@ Desenvolva uma aplicação web utilizando o framework front-end react e esta dev
 - Eu como usuário autenticado desejo deletar uma postagem que eu criei.
 > **Observações:**
 > - Sua aplicação web DEVE se comunicar com sua API;
-> - Você pode utilizar o banco de dados relacional preferencialmente PostgreSQL.
+> - Você pode utilizar banco de dados relacional, preferencialmente PostgreSQL.
 ## Diferenciais
 Será considerado como diferenciais o uso das seguintes tecnologias:
 - Express JS
